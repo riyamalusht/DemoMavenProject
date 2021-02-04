@@ -3,7 +3,8 @@ package base;
 public class test {
 	
 	public void testGithub() {
-		System.out.println("Hey");
+		System.out.println("Hey you there ?");
+		System.out.println("Helloooo");
 	}
 
 }
