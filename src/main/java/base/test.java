@@ -6,5 +6,9 @@ public class test {
 		System.out.println("Hey you there ?");
 		System.out.println("Helloooo");
 	}
+	
+	public void testCommit() {
+		System.out.println("RiyaRiyaRiya");
+	}
 
 }
