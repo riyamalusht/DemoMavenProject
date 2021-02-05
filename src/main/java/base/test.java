@@ -7,8 +7,9 @@ public class test {
 		System.out.println("Helloooo");
 	}
 	
-	public void testCommit() {
+	public void testGitCommit() {
 		System.out.println("RiyaRiyaRiya");
+		System.out.println("jim");
 	}
 
 }
