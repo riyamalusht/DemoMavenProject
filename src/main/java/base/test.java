@@ -11,6 +11,7 @@ public class test {
 		System.out.println("RiyaRiyaRiya");
 		System.out.println("jim");
 		System.out.println("Malushte");
+		System.out.println("heloooo");
 	}
 
 }
