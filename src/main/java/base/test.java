@@ -12,7 +12,7 @@ public class test {
 		System.out.println("jim");
 		System.out.println("Malushte");
 		System.out.println("heloooo");
-		System.out.println("hi");
+		System.out.println("hiiiii");
 	}
 
 }
