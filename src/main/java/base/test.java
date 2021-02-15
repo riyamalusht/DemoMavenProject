@@ -13,6 +13,11 @@ public class test {
 		System.out.println("Malushte");
 		System.out.println("heloooo");
 		System.out.println("hiiiii");
+		
+	}
+	
+	public void test() {
+		System.out.println("there ?");
 	}
 
 }
