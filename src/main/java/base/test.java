@@ -7,7 +7,7 @@ public class test {
 		System.out.println("Helloooo");
 	}
 	
-	public void testGitCommit() {
+	public void testGitCommiit() {
 		System.out.println("RiyaRiyaRiya");
 		System.out.println("jim");
 		System.out.println("Malushte");
@@ -17,7 +17,7 @@ public class test {
 	}
 	
 	public void test() {
-		System.out.println("there ?");
+		System.out.println("eeeggge ?");
 	}
 
 }
