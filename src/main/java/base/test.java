@@ -16,7 +16,7 @@ public class test {
 		
 	}
 	
-	public void test() {
+	public void testRiyaMalu() {
 		System.out.println("eeeggge ?");
 	}
 
