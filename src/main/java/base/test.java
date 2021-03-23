@@ -19,5 +19,10 @@ public class test {
 	public void testRiyaMalu() {
 		System.out.println("eeeggge ?");
 	}
+	
+	public void testRiyaMaaalu() {
+		System.out.println("eeeggge ?");
+	}
+
 
 }
