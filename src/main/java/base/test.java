@@ -23,6 +23,10 @@ public class test {
 	public void testRiyaMaaalu() {
 		System.out.println("eeeggge ?");
 	}
+	
+	public void testRiyaMaaalutr() {
+		System.out.println("eeeggggge ?");
+	}
 
 
 }
