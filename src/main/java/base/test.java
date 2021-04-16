@@ -28,7 +28,7 @@ public class test {
 		System.out.println("eeeggggge ?");
 	}
 	
-	public void testroveeeee() {
+	public void testro() {
 		System.out.println("eeegggaaaaaaaaaaaaaaaaagge ?");
 	}
 
